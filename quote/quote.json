@@ -1,0 +1,208 @@
+{
+    "data": {
+        "title": "Quote Create For StaticData",
+        "description": "description For IsRead",
+        "tandc": [],
+        "items": [
+            {
+                "itemid": "-1",
+                "itemname": "ASIAN Mens Synthetic Sports Running Casual Loafer Shoes for Boys",
+                "price": "120",
+                "quantity": "5",
+                "itemdesc": "No cost EMI available on select cards. Please check EMI options above for more details",
+                "itemprops": [
+                    {
+                        "name": "Product Dime",
+                        "value": "31 x 26 x 10 cm; 760 Grams"
+                    },
+                    {
+                        "name": "Packer",
+                        "value": "Asian Retail Ventures-110083"
+                    },
+                    {
+                        "name": "Generic",
+                        "value": "Running Shoes,Sports Shoes,Casual Shoes"
+                    },
+                    {
+                        "name": "Product Dime",
+                        "value": "31 x 26 x 10"
+                    }
+                ],
+                "itemtax": [
+                    {
+                        "usertaxid": "e696ca8a-159a-467c-98bf-89e007a81e3b",
+                        "name": "SGST",
+                        "rate": 2.5
+                    },
+                    {
+                        "usertaxid": "893c5a9b-129e-40db-b08c-273ad455bb90",
+                        "name": "CGST",
+                        "rate": 2.5
+                    },
+                    {
+                        "usertaxid": "bb6411d4-a573-4857-923c-7133f20c403f",
+                        "name": "IGST",
+                        "rate": 5
+                    }
+                ],
+                "uomname": "test4",
+                "uomnameid": "52463295-c385-4d3c-b734-b1fe357220f4",
+                "itemtotal": 600,
+                "itemtaxtotal": 60,
+                "itemgrandtotal": 660
+            },
+            {
+                "itemid": "-1",
+                "itemname": "OnePlus 9 Pro 5G",
+                "price": "25000",
+                "quantity": "1",
+                "itemdesc": "Comes with 4500 mAh Battery with 65W Wired Charging and 50W Wireless Charging capability",
+                "itemprops": [
+                    {
+                        "name": "Model Name",
+                        "value": "OnePlus 9 Pro"
+                    },
+                    {
+                        "value": "Qualcomm Snapdragon 888 Processor",
+                        "name": "processor"
+                    },
+                    {
+                        "name": "Model Name",
+                        "value": "OnePlus 9 Pro"
+                    }
+                ],
+                "itemtax": [
+                    {
+                        "usertaxid": "79f5fda7-d46f-4aaf-aa1d-4cb66883ae3c",
+                        "name": "SGST",
+                        "rate": 6
+                    }
+                ],
+                "uomname": "test4",
+                "uomnameid": "52463295-c385-4d3c-b734-b1fe357220f4",
+                "itemtotal": 25000,
+                "itemtaxtotal": 1500,
+                "itemgrandtotal": 26500
+            },
+            {
+                "itemid": "-1",
+                "itemname": "Xiaomi 11T Pro 5G Hyperphone Celestial Magic,8GB RAM,128GB Storage",
+                "price": "23000",
+                "quantity": "1",
+                "itemdesc": "‎Xiaomi 11T Pro, Power adapter, USB cable, Type C to 3.5mm converter, SIM eject tool, Warranty card",
+                "itemprops": [
+                    {
+                        "name": "Batteries",
+                        "value": "1 Lithium Ion batteries required. (included)"
+                    },
+                    {
+                        "name": "camera",
+                        "value": "Triple Rear Camera - 108 MP (Wide Angle) + 8MP (Ultra wide) + 5MP (Telemacro) | Front Camera - 16MP"
+                    },
+                    {
+                        "name": "Batteries",
+                        "value": "1 Lithium Ion batteries required. (included)"
+                    },
+                    {
+                        "name": "camera",
+                        "value": "Triple Rear Camera"
+                    }
+                ],
+                "itemtax": [
+                    {
+                        "usertaxid": "0713561c-726d-40fc-a318-47fb50e21d38",
+                        "name": "CGST",
+                        "rate": 6
+                    }
+                ],
+                "uomname": "test4",
+                "uomnameid": "52463295-c385-4d3c-b734-b1fe357220f4",
+                "itemtotal": 23000,
+                "itemtaxtotal": 1380,
+                "itemgrandtotal": 24380
+            },
+            {
+                "itemid": "-1",
+                "itemname": "Xiaomi 11T Pro 5G Hyperphone Celestial Magic,8GB RAM,128GB Storage",
+                "price": "45000",
+                "quantity": "20",
+                "itemdesc": "‎Xiaomi 11T Pro, Power adapter, USB cable, Type C to 3.5mm converter, SIM eject tool, Warranty card",
+                "itemprops": [
+                    {
+                        "name": "Batteries",
+                        "value": "1 Lithium Ion batteries required. (included)"
+                    },
+                    {
+                        "name": "camera",
+                        "value": "Triple Rear Camera - 108 MP (Wide Angle) + 8MP (Ultra wide) + 5MP (Telemacro) | Front Camera - 16MP"
+                    },
+                    {
+                        "name": "Batteries",
+                        "value": "1 Lithium Ion batteries required. (included)"
+                    },
+                    {
+                        "name": "camera",
+                        "value": "Triple Rear Camera - 108 MP (Wide Angle)"
+                    }
+                ],
+                "itemtax": [
+                    {
+                        "usertaxid": "0713561c-726d-40fc-a318-47fb50e21d38",
+                        "name": "CGST",
+                        "rate": 6
+                    }
+                ],
+                "uomname": "test4",
+                "uomnameid": "52463295-c385-4d3c-b734-b1fe357220f4",
+                "itemtotal": 23000,
+                "itemtaxtotal": 1380,
+                "itemgrandtotal": 24380
+            }
+        ],
+        "valid": "2022-06-25T11:30:00.000Z",
+        "workspaceid": "0e4b22d9-eb58-4db3-8a89-3fafd2efb57e",
+        "cdate": "2022-01-05T11:30:00.000Z",
+        "fromaddress": {
+            "id": "629afe80e1fcf56bf0b81367",
+            "company": "Acme Corp",
+            "address": "Fl 12 D Wing Gr Flr Indraprastha Bldg Jeetendra Road Raheja Township Malad , Mumbai, Maharashtra,400097",
+            "city": "Mumbai",
+            "state": "Maharashtra",
+            "pincode": "400097",
+            "taxid": "07AAGFF2194N1Z1",
+            "contactname": "ContactUser1",
+            "country": "India",
+            "email": "Acme@gaeprojects.com",
+            "phonenumber": "1234567980"
+        },
+        "toaddress": {
+            "id": "61d6edaeb3b0f05f679e3f4c",
+            "company": "Stark Industries",
+            "address": "27 --/ Ramkote, Hyderabad,Bhimavaram,500001",
+            "city": "Hyderabad",
+            "state": "Bhimavaram",
+            "pincode": "500001",
+            "taxid": "07AAGFF2194N1Z2",
+            "contactname": "ContactUser2",
+            "country": "India",
+            "email": "Stark@gaeprojects.com",
+            "phonenumber": "9876543210"
+        },
+        "itemcount": "5",
+        "totalwithtax": 1000,
+        "totalwithouttax": 1000,
+        "commontaxtotal": 1,
+        "grandtotal": 120.9,
+        "isautoref": true,
+        "refno": "1",
+        "countrycode": "IN",
+        "currencycode": "INR",
+        "locale": "en",
+        "counterid": "30ff9dba-0a12-4b25-99a8-ba64bfd74bc0",
+        "sentto": [
+            {
+                "email": "sivakumar.h@gaeprojects.com"
+            }
+        ]
+    }
+}
