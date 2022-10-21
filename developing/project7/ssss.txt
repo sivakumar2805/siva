@@ -1,0 +1,45 @@
+https://bo56hwwt77.execute-api.us-east-2.amazonaws.com/dev/auth/signIn
+https://bo56hwwt77.execute-api.us-east-2.amazonaws.com/dev/auth/signup
+https://bo56hwwt77.execute-api.us-east-2.amazonaws.com/dev/auth/refresh
+https://bo56hwwt77.execute-api.us-east-2.amazonaws.com/dev/auth/signout
+
+https://bo56hwwt77.execute-api.us-east-2.amazonaws.com/dev/rfq/getRFQsentList
+https://bo56hwwt77.execute-api.us-east-2.amazonaws.com/dev/rfq/getRFQInboxByUserID
+https://bo56hwwt77.execute-api.us-east-2.amazonaws.com/dev/rfq/getrfqsubmittedlist
+https://bo56hwwt77.execute-api.us-east-2.amazonaws.com/dev/rfq/getrfqresponselist
+
+https://bo56hwwt77.execute-api.us-east-2.amazonaws.com/dev/rfq/getRFQSentSummary
+https://bo56hwwt77.execute-api.us-east-2.amazonaws.com/dev/rfq/getRFQInboxByID
+https://bo56hwwt77.execute-api.us-east-2.amazonaws.com/dev/rfq/getrfqsubmittedbyid
+https://bo56hwwt77.execute-api.us-east-2.amazonaws.com/dev/rfq/getrfqresponsebyid
+
+https://bo56hwwt77.execute-api.us-east-2.amazonaws.com/dev/settings/getUserAccountSetting
+https://bo56hwwt77.execute-api.us-east-2.amazonaws.com/dev/settings/getUOMByUserID
+https://bo56hwwt77.execute-api.us-east-2.amazonaws.com/dev/settings/getTaxByUserID
+https://bo56hwwt77.execute-api.us-east-2.amazonaws.com/dev/settings/getSelfProfileByUserID
+https://bo56hwwt77.execute-api.us-east-2.amazonaws.com/dev/settings/getworkSpaceByUserID
+https://bo56hwwt77.execute-api.us-east-2.amazonaws.com/dev/settings/getActiveTandC
+
+
+
+so -> new -> https://bo56hwwt77.execute-api.us-east-2.amazonaws.com/dev/settings/getWorkSpaceByUserID
+
+so -> draftview -> https://bo56hwwt77.execute-api.us-east-2.amazonaws.com/dev/draft/getSODraftByID
+
+
+po -> new -> https://bo56hwwt77.execute-api.us-east-2.amazonaws.com/dev/settings/getWorkSpaceByUserID
+
+po -> draftview -> https://bo56hwwt77.execute-api.us-east-2.amazonaws.com/dev/draft/getPODraftByID
+
+
+quote -> new -> https://bo56hwwt77.execute-api.us-east-2.amazonaws.com/dev/settings/getWorkSpaceByUserID
+
+quote -> draftlist -> https://bo56hwwt77.execute-api.us-east-2.amazonaws.com/dev/quote/draft/getQuoteDraftList
+
+
+
+Rfq -> sentlist -> https://bo56hwwt77.execute-api.us-east-2.amazonaws.com/dev/rfq/getRfqSentList
+
+rfq -> draftlist -> https://bo56hwwt77.execute-api.us-east-2.amazonaws.com/dev/rfq/draft/getRfqDraftList'
+
+rfq -> inboxlist -> https://bo56hwwt77.execute-api.us-east-2.amazonaws.com/dev/rfq/getRfqInboxByUserID
