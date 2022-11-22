@@ -32,7 +32,7 @@ console.log(sum); // 21
  */
 
 // using arrow function
-let summation = arrOfObj.reduce((acc, cv) => {
-  return acc + cv.age;
-}, initialValue);
-console.log(summation); // 21
+// let summation = arrOfObj.reduce((acc, cv) => {
+//   return acc + cv.age;
+// }, initialValue);
+// console.log(summation); // 21
